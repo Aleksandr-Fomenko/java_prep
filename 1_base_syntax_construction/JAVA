@@ -1,0 +1,13 @@
+java 9 tipov dannih
+
+1 ssilochnie
+8 primitivnie
+ 2 plavayushaya tochka
+ 4 celochislennie
+ 1 logicheskaya
+ 1 simvolnaya
+
+preobrazovaniya
+monjo preobrazovivat in menshego v bolshee no ne naoborot
+Явное приведение типов сообщает компилятору или человеку читающему код, что вы знаете о том что это не тот тип, но уверены в том что у вас всё получится.
+Неявное же приведение типов компилятор замечает, и если программист переводит более большой тип в меньший, он будет ругаться.
